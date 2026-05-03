@@ -1,0 +1,4 @@
+Hello from the cloud sandbox!
+
+This file was created by Claude to demonstrate how uncommitted changes
+look before they're committed and pushed.
